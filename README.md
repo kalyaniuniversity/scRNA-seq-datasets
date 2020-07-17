@@ -31,7 +31,7 @@ If we have written a toolset for a certain dataset, it shall be available under 
 			<td>1</td>
 			<td>BMMC-AML</td>
 			<td>Zheng, G. X., Terry, J. M., ... Gregory, M. T. (2017). <a href="https://www.nature.com/articles/ncomms14049" target="_blank">Massively parallel digital transcriptional profiling of single cells</a>. Nature communications, 8, 14049.</td>
-			<td><a href="https://github.com/kalyaniuniversity/scRNA-seq-datasets/tree/master/datasets/GSE85241" target="_blank">GSE36552</a></td>
+			<td><a href="https://github.com/kalyaniuniversity/scRNA-seq-datasets/tree/master/BMMC-AML/datasets" target="_blank">BMMC-AML</a></td>
 			<td><a href="https://github.com/kalyaniuniversity/pytoolkit" target="_blank">kalyaniuniversity/pytoolkit</a></td>
 			<td>
 				Bone marrow mononuclear cells with AML (2017), from <a href="https://support.10xgenomics.com/single-cell-gene-expression/datasets" target="_blank">10x Genomics</a>
