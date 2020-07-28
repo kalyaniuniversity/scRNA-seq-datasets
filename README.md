@@ -1,3 +1,9 @@
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3964240.svg)
+
+> *Cite this repository:*
+>
+> Debabrata Acharya. (2020, July 28). kalyaniuniversity/scRNA-seq-datasets: Publicly available Single-Cell RNA Sequencing Datasets (Version 0.1). Zenodo. http://doi.org/10.5281/zenodo.3964240
+
 # scRNA-seq-datasets
 A list of publicly available Single Cell RNA Sequencing datasets with proper attribution and associated toolkits.
 
